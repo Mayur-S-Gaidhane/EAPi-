@@ -1,5 +1,5 @@
 def myFunc():
-    string='Cppsecrets'
+    string='cppsecrets'
     n=len(string)
     arr=[]
     for i in range(n):
